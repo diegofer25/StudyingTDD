@@ -1,2 +1,0 @@
-# StudyingTDD
-Created with CodeSandbox
